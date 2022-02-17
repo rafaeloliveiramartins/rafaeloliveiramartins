@@ -3,7 +3,7 @@
 
 <div align="center">
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/rafaeloliveiramartinss)](https://github.com/rafaeloliveiramartinss)
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/rafaeloliveiramartins)](https://github.com/rafaeloliveiramartins)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/rafaeloliveiramartins/)](https://www.linkedin.com/in/rafaeloliveiramartins/)
 [![DEV Badge](https://img.shields.io/badge/-DEV.to-000?style=flat-square&logo=dev.to&logoColor=white&link=https://https://dev.to/rafaeloliveiramartinss)](https://dev.to/rafaeloliveiramartinss)
 [![Stackoverflow Badge](https://img.shields.io/badge/-Stackoverflow-f7800c?style=flat-square&logo=Stackoverflow&logoColor=white&link=https://https://stackoverflow.com/users/18111214/rafael-oliveira-martins)](https://stackoverflow.com/users/18111214/rafael-oliveira-martins)
@@ -32,7 +32,7 @@ My name is Rafael Oliveira Martins, I am an Web Developer completely passionate 
 <div align="center">
 
 **Languages and Tools:**
-<a href="https://github.com/rafaeloliveiramartinss">
+<a href="https://github.com/rafaeloliveiramartins">
 
 <code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></code>
@@ -42,7 +42,7 @@ My name is Rafael Oliveira Martins, I am an Web Developer completely passionate 
 <code><img height="20" src="https://user-images.githubusercontent.com/58194291/152402604-b5cb8547-c6e3-4612-bee0-ed8595b95624.png"></code>
 
   <img align="center"> 
-  <a href="https://github.com/rafaeloliveiramartinss">
+  <a href="https://github.com/rafaeloliveiramartins">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=rafaeloliveiramartinss&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919">
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaeloliveiramartinss&layout=compact&langs_count=7&theme=dark"/>
 
