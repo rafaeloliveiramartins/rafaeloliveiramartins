@@ -43,8 +43,8 @@ My name is Rafael Oliveira Martins, I am an Web Developer completely passionate 
 
   <img align="center"> 
   <a href="https://github.com/rafaeloliveiramartins">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=rafaeloliveiramartinss&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaeloliveiramartinss&layout=compact&langs_count=7&theme=dark"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=rafaeloliveiramartins&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaeloliveiramartins&layout=compact&langs_count=7&theme=dark"/>
 
 ##
 
