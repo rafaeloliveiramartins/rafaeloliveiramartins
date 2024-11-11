@@ -20,7 +20,7 @@
 
 My name is Rafael Oliveira Martins, I'm a Python Developer passionate about Technology, Innovation, and creating things with a 3D printer.
 
-- :office_worker: Currently, I'm working as a trainee at **Datametria.io**.
+- :office_worker: I currently work as a Python Developer at **Datametria.io**.
 - 🌱 I’m currently learning Python.
 - 💬 Ask me about 3D printing, things from the Maker universe, or anything else related.
 - :blue_heart: Techs: 3D Printing, Embedded Systems!
